@@ -38,7 +38,7 @@
     "semantic-ui-react": "^2.1.4",
     "stats-lite": "^2.2.0",
     "typesafe-actions": "^2.2.0",
-    "typescript": "^3.7.5"
+    "typescript": "^3.9.10"
   },
   "devDependencies": {
     "surge": "^0.23.1"
